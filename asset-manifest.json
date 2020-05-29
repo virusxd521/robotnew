@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robotnew/static/css/main.118f87fe.chunk.css",
+    "main.js": "/robotnew/static/js/main.e505b07c.chunk.js",
+    "main.js.map": "/robotnew/static/js/main.e505b07c.chunk.js.map",
+    "runtime-main.js": "/robotnew/static/js/runtime-main.e347b85a.js",
+    "runtime-main.js.map": "/robotnew/static/js/runtime-main.e347b85a.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/robotnew/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b7db9bba.chunk.js": "/robotnew/static/js/2.b7db9bba.chunk.js",
+    "static/js/2.b7db9bba.chunk.js.map": "/robotnew/static/js/2.b7db9bba.chunk.js.map",
+    "index.html": "/robotnew/index.html",
+    "precache-manifest.665b7ed8ed077ea53e4ca836dca44927.js": "/robotnew/precache-manifest.665b7ed8ed077ea53e4ca836dca44927.js",
+    "service-worker.js": "/robotnew/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/robotnew/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.118f87fe.chunk.css.map": "/robotnew/static/css/main.118f87fe.chunk.css.map",
+    "static/js/2.b7db9bba.chunk.js.LICENSE.txt": "/robotnew/static/js/2.b7db9bba.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotnew/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e347b85a.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.b7db9bba.chunk.js",
+    "static/css/main.118f87fe.chunk.css",
+    "static/js/main.e505b07c.chunk.js"
+  ]
+}
